@@ -1,4 +1,4 @@
-,Unnamed: 0,disease,workout
+Unnamed: 0,disease,workout
 0,0,Fungal infection,Avoid sugary foods
 1,1,Fungal infection,Consume probiotics
 2,2,Fungal infection,Increase intake of garlic
@@ -409,3 +409,4 @@
 407,407,Impetigo,Avoid scratching
 408,408,Impetigo,Take prescribed antibiotics
 409,409,Impetigo,Practice wound care
+
